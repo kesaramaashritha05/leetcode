@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
+| [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kesaramaashritha05/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
