@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
