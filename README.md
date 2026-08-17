@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kesaramaashritha05/leetcode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/kesaramaashritha05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/kesaramaashritha05/leetcode/tree/master/0205-isomorphic-strings) |
+| [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
