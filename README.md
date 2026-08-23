@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kesaramaashritha05/leetcode/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/kesaramaashritha05/leetcode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/kesaramaashritha05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/kesaramaashritha05/leetcode/tree/master/1922-count-good-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kesaramaashritha05/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/kesaramaashritha05/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kesaramaashritha05/leetcode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/kesaramaashritha05/leetcode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
