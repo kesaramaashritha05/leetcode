@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
+| [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
+| [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
