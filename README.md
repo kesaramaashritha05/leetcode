@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kesaramaashritha05/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kesaramaashritha05/leetcode/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1903-largest-odd-number-in-string](https://github.com/kesaramaashritha05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 | [3136-valid-word](https://github.com/kesaramaashritha05/leetcode/tree/master/3136-valid-word) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kesaramaashritha05/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kesaramaashritha05/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 ## Counting
