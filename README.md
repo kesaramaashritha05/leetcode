@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kesaramaashritha05/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kesaramaashritha05/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
