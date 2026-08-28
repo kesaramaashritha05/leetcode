@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1046-last-stone-weight](https://github.com/kesaramaashritha05/leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/kesaramaashritha05/leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
