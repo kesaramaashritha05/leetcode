@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kesaramaashritha05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kesaramaashritha05/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kesaramaashritha05/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/kesaramaashritha05/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/kesaramaashritha05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kesaramaashritha05/leetcode/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kesaramaashritha05/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
