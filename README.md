@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kesaramaashritha05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/kesaramaashritha05/leetcode/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kesaramaashritha05/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kesaramaashritha05/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
 | [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kesaramaashritha05/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
