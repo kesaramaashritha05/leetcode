@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kesaramaashritha05/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kesaramaashritha05/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kesaramaashritha05/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/kesaramaashritha05/leetcode/tree/master/0205-isomorphic-strings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kesaramaashritha05/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/kesaramaashritha05/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kesaramaashritha05/leetcode/tree/master/0326-power-of-three) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kesaramaashritha05/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kesaramaashritha05/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kesaramaashritha05/leetcode/tree/master/0342-power-of-four) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kesaramaashritha05/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
