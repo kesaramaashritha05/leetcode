@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/kesaramaashritha05/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kesaramaashritha05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kesaramaashritha05/leetcode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/kesaramaashritha05/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
