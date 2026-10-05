@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesaramaashritha05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kesaramaashritha05/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -289,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kesaramaashritha05/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesaramaashritha05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kesaramaashritha05/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesaramaashritha05/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kesaramaashritha05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
