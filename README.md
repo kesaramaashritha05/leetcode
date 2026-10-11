@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/kesaramaashritha05/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/kesaramaashritha05/leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/kesaramaashritha05/leetcode/tree/master/0595-big-countries) |
+| [1045-customers-who-bought-all-products](https://github.com/kesaramaashritha05/leetcode/tree/master/1045-customers-who-bought-all-products) |
 ## Design
 |  |
 | ------- |
