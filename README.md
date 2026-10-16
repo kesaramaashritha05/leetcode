@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kesaramaashritha05/leetcode/tree/master/0049-group-anagrams) |
+| [0120-triangle](https://github.com/kesaramaashritha05/leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kesaramaashritha05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/kesaramaashritha05/leetcode/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/kesaramaashritha05/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
