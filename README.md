@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/kesaramaashritha05/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/kesaramaashritha05/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0746-min-cost-climbing-stairs](https://github.com/kesaramaashritha05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/kesaramaashritha05/leetcode/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kesaramaashritha05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kesaramaashritha05/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/kesaramaashritha05/leetcode/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/kesaramaashritha05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/kesaramaashritha05/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
