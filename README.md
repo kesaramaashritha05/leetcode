@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kesaramaashritha05/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
+| [3693-climbing-stairs-ii](https://github.com/kesaramaashritha05/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kesaramaashritha05/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kesaramaashritha05/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/kesaramaashritha05/leetcode/tree/master/1025-divisor-game) |
+| [3693-climbing-stairs-ii](https://github.com/kesaramaashritha05/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Brainteaser
 |  |
 | ------- |
