@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kesaramaashritha05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/kesaramaashritha05/leetcode/tree/master/2293-min-max-game) |
 | [2418-sort-the-people](https://github.com/kesaramaashritha05/leetcode/tree/master/2418-sort-the-people) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kesaramaashritha05/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/kesaramaashritha05/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/kesaramaashritha05/leetcode/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kesaramaashritha05/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -392,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kesaramaashritha05/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/kesaramaashritha05/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/kesaramaashritha05/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
