@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kesaramaashritha05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/kesaramaashritha05/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kesaramaashritha05/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kesaramaashritha05/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kesaramaashritha05/leetcode/tree/master/0067-add-binary) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kesaramaashritha05/leetcode/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kesaramaashritha05/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kesaramaashritha05/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/kesaramaashritha05/leetcode/tree/master/0044-wildcard-matching) |
 | [0096-unique-binary-search-trees](https://github.com/kesaramaashritha05/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/kesaramaashritha05/leetcode/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/kesaramaashritha05/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kesaramaashritha05/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kesaramaashritha05/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/kesaramaashritha05/leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/kesaramaashritha05/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kesaramaashritha05/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kesaramaashritha05/leetcode/tree/master/0206-reverse-linked-list) |
