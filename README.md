@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kesaramaashritha05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kesaramaashritha05/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kesaramaashritha05/leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/kesaramaashritha05/leetcode/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/kesaramaashritha05/leetcode/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/kesaramaashritha05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/kesaramaashritha05/leetcode/tree/master/1025-divisor-game) |
